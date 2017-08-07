@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BuddyPress Boilerplate
-Description: This plugin serves as a template for the development of other BadgeOS plugins.
+Description: This plugin serves as a template for the development of other BuddyPress plugins.
 Version: 1.0.0
 Author: Cristian Abello
 Author URI: mailto:cristian.abello@valpo.edu
